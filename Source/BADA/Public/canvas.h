@@ -27,6 +27,13 @@ typedef enum command {
     COMMAND_REDO,
 } command_t;
 
+typedef struct history {
+    size_t* x;
+    size_t* y;
+    uint32_t* prev_pixel;
+    size_t num_pixel;
+} history_t;
+
 #ifdef __cplusplus
 extern "C"
 {

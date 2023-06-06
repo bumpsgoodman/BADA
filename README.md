@@ -178,6 +178,10 @@ x 위치에 세로 줄을 그린다.
 
     <img src="Sample/솔루션_실행화면.jpg"  width="60%"/>
 
+## 실행 예시
+
+<img src="Sample/실행화면.jpg"  width="45%"/> <img src="Sample/예시.jpg"  width="45%"/>
+
 ## 깃허브에 업로드 방법
 1. 깃 탭을 누른 뒤, master 클릭, 새로운 브랜치 생성
 
@@ -200,10 +204,6 @@ x 위치에 세로 줄을 그린다.
 
 5. 앞으로 깃허브에 올릴 땐 자신이 만든 브랜치에 업로드한다.
 
-## 실행 예시
-
-<img src="Sample/실행화면.jpg"  width="45%"/> <img src="Sample/예시.jpg"  width="45%"/>
-    
 ## 사용 방법
 ### 기능
 - F1 - 도움말

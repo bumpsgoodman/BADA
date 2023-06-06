@@ -230,7 +230,7 @@ int redo(void)
     --s_num_redo_stack;
     ++s_num_undo_stack;
 
-    return 1;
+    return TRUE;
 }
 
 static uint32_t get_pixel(size_t x, size_t y)

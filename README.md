@@ -162,21 +162,43 @@ x 위치에 세로 줄을 그린다.
 2. Visual Studio 2019 이상 (기본 세팅은 Visual Studio 2022 Community)
 
 ## 다운로드 및 실행 방법
-1. Code -> Download ZIP을 클릭하여 ZIP파일 다운로드
+1. Open with Visual Studio 클릭
     
     <img src="Sample/다운로드.jpg"  width="30%"/>
 
-2. 다운로드한 ZIP파일을 원하는 위치에 압축풀기
+2. Path에 "원하는 경로\BADA" 입력 후 Clone 클릭
 
-    <img src="Sample/압축풀기.jpg"  width="70%"/>
+    <img src="Sample/저장소_클론.jpg"  width="70%"/>
 
-3. BADA-master/Project 위치에 있는 BADA.sln 파일 열기
+3. BADA\Project 위치에 있는 BADA.sln 파일 열기
 
     <img src="Sample/솔루션_경로.jpg"  width="50%"/>
 
 4. 로컬 Windows 디버거 혹은 F5를 눌러 실행
 
     <img src="Sample/솔루션_실행화면.jpg"  width="60%"/>
+
+## 깃허브에 업로드 방법
+1. 깃 탭을 누른 뒤, master 클릭, 새로운 브랜치 생성
+
+    <img src="Sample/깃_탭.jpg"  width="30%"/>
+    <img src="Sample/브랜치_만들기_1.jpg"  width="30%"/>
+
+2. 브랜치 이름에 자신의 닉네임 입력 후 생성
+
+    <img src="Sample/브랜치_만들기_2.jpg"  width="50%"/>
+
+3. Commit 메시지 작성 후 모두 Commit, Push 버튼으로 깃허브에 업로드
+
+    <img src="Sample/업로드_1.jpg"  width="30%"/>
+    <img src="Sample/업로드_2.jpg"  width="30%"/>
+
+4. 깃허브 저장소에서 자신이 만든 브랜치 확인
+
+    <img src="Sample/브랜치_확인.jpg"  width="30%"/>
+    <img src="Sample/업로드_확인.jpg"  width="60%"/>
+
+5. 앞으로 깃허브에 올릴 땐 자신이 만든 브랜치에 업로드한다.
 
 ## 실행 예시
 

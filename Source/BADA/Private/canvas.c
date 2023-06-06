@@ -1,5 +1,7 @@
 #include "canvas.h"
 
+// TEST
+
 static uint32_t* s_canvas;
 static size_t s_rows;
 static size_t s_cols;
